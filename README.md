@@ -1,0 +1,2 @@
+# trailingSpaceHunter
+Remove trailing spaces
